@@ -1,6 +1,8 @@
 # stz
 
-`stz` is a work-in-progress code for simulating bulk metallic glasses in 3D using the shear transformation zone theory of amorphous plasticity. At the moment, only linear elastic terms have been implemented. The code is written in Cython and has been parallelized through MPI via mpi4py. 
+`stz` is a FORMER work-in-progress code for simulating bulk metallic glasses in 3D using the shear transformation zone theory of amorphous plasticity. At the moment, only linear elastic terms have been implemented. The code is written in Cython and has been parallelized through MPI via mpi4py. 
+
+Neither of us have touched this code in 5 years and it is considered dead and not in active development. We do not plan to support the current version of Python. 
 
 ## Getting Started
 
